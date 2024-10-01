@@ -1,0 +1,17 @@
+{
+  "name": "RestAPIs",
+  "version": "1.0.0",
+  "description": "Free Helpful RestAPIs Hub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "GlobalSprak",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.21.0",
+    "globalsprak": "^1.0.6"
+  }
+}
