@@ -1,4 +1,4 @@
-# RestAPIs API
+# RestAPIs
 
 Welcome to the **RestAPIs**! These APIs provides various endpoints for generating AI text and images, managing conversations, downloading media, and more. It's designed to facilitate interactions with AI models and simplify media handling.
 
